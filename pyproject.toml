@@ -1,0 +1,7 @@
+[project]
+name = "mull"
+version = "0.1.0"
+description = "A tool for manipulating metadata in audio and video formats."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
